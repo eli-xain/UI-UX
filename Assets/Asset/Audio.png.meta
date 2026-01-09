@@ -1,10 +1,103 @@
 fileFormatVersion: 2
-guid: b49c29006ea0b4e43aaeec0ef70c196b
+guid: 4de6202edd2ecf8478e8b19c58941428
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1162569161695696328
-    second: Right_Arrow_0
+      213: 4086895658025638556
+    second: Audio_0
+  - first:
+      213: -5679096538048898286
+    second: Audio_1
+  - first:
+      213: 2356825303544215458
+    second: Audio_2
+  - first:
+      213: -4934120510291018132
+    second: Audio_3
+  - first:
+      213: 7065629912824699882
+    second: Audio_4
+  - first:
+      213: 2343412016128477021
+    second: Audio_5
+  - first:
+      213: -307331636109789892
+    second: Audio_6
+  - first:
+      213: -2621146707131914051
+    second: Audio_7
+  - first:
+      213: 3483722575812128292
+    second: Audio_8
+  - first:
+      213: -2575642656691413682
+    second: Audio_9
+  - first:
+      213: -2700213656472880956
+    second: Audio_10
+  - first:
+      213: -1364709717310478414
+    second: Audio_11
+  - first:
+      213: -5099254478929504303
+    second: Audio_12
+  - first:
+      213: -4113524495785644536
+    second: Audio_13
+  - first:
+      213: -7913549211550812718
+    second: Audio_14
+  - first:
+      213: -3778157768286325939
+    second: Audio_15
+  - first:
+      213: -1405794625633653086
+    second: Audio_16
+  - first:
+      213: 7270498633782748008
+    second: Audio_17
+  - first:
+      213: 6613229727633695343
+    second: Audio_18
+  - first:
+      213: -6877744276291621953
+    second: Audio_19
+  - first:
+      213: -5147420500320268091
+    second: Audio_20
+  - first:
+      213: 6627957976335035645
+    second: Audio_21
+  - first:
+      213: 5535701871101482177
+    second: Audio_22
+  - first:
+      213: -3497518698829152598
+    second: Audio_23
+  - first:
+      213: -1639984912967651760
+    second: Audio_24
+  - first:
+      213: 6669218022248785561
+    second: Audio_25
+  - first:
+      213: -5068073377304807337
+    second: Audio_26
+  - first:
+      213: 6817789743363627722
+    second: Audio_27
+  - first:
+      213: 8404853413890413137
+    second: Audio_28
+  - first:
+      213: -4042690507406491599
+    second: Audio_29
+  - first:
+      213: 1779194008801839326
+    second: Audio_30
+  - first:
+      213: 3518294665518158289
+    second: Audio_31
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,66 +189,27 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Right_Arrow_0
+      name: Audio_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 57
-        height: 98
+        width: 1601
+        height: 299
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 83aed4ac189bddfe0800000000000000
-      internalID: -1162569161695696328
+      spriteID: 641656c1161499d4e94b316ef31d0fd1
+      internalID: 1249228198
       vertices: []
       indices: 
       edges: []
@@ -164,7 +218,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 47bfbf46d960ffe4d999947e6385c9c3
     internalID: 0
     vertices: []
     indices: 
@@ -174,7 +228,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Right_Arrow_0: -1162569161695696328
+      Audio_0: 1249228198
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
