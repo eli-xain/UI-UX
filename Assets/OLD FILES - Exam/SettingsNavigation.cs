@@ -19,10 +19,8 @@ public class SettingsNavigation : MonoBehaviour
 
     void Start()
     {
-        // Default tab when opening Settings
         OpenGraphics();
 
-        // Button listeners
         graphicsButton.onClick.AddListener(OpenGraphics);
         audioButton.onClick.AddListener(OpenAudio);
         languageButton.onClick.AddListener(OpenLanguage);
